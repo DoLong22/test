@@ -1,0 +1,2 @@
+file B
+file B.1
